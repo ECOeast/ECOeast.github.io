@@ -1,4 +1,4 @@
-# Welcome to My Data Science Portfolio Blog
+# Welcome
 Hello! I'm Erik Ohst, a new data scientist looking to further my skills and knowledge in my field. This blog serves as a repository for my projects, showcasing my skills, methodologies, and the outcomes of my work.
 
 ## What You'll Find Here
